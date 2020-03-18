@@ -1,0 +1,18 @@
+{
+  "name": "fastfeet-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alefecrz/fastfeet-api.git",
+  "author": "Álefe Cruz <alefecrz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1"
+  }
+}
