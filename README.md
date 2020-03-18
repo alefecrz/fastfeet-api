@@ -29,9 +29,10 @@
 - [Express][express]
 - [Nodemon][nodemon]
 - [Sucrase][sucrase]
-<!-- - [Docker][docker]
 - [ESLint][eslint]
 - [Prettier][prettier]
+
+<!-- - [Docker][docker]
 - [Sequelize][sequelize]
 - [Postgres][postgres]
 - [Insominia][insominia]
@@ -45,9 +46,9 @@ Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.c
 [express]:https://nodejs.org/
 [nodemon]:https://nodemon.io/
 [sucrase]:https://sucrase.io/
-<!-- [docker]:https://www.docker.com/
 [eslint]:https://eslint.org/
 [prettier]:https://prettier.io/
+<!-- [docker]:https://www.docker.com/
 [sequelize]:https://sequelize.org/
 [postgres]:https://www.postgresql.org/
 [insominia]:https://insomnia.rest/
