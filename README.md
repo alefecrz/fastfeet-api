@@ -31,14 +31,13 @@
 - [Sucrase][sucrase]
 - [ESLint][eslint]
 - [Prettier][prettier]
-
-<!-- - [Docker][docker]
+- [Docker][docker]
 - [Sequelize][sequelize]
 - [Postgres][postgres]
 - [Insominia][insominia]
 - [Bcryptjs][bcryptjs]
 - [JsonWebToken][jsonWebToken]
-- [Yup][yup] -->
+- [Yup][yup]
 
 Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.com.br/)
 
@@ -48,10 +47,10 @@ Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.c
 [sucrase]:https://sucrase.io/
 [eslint]:https://eslint.org/
 [prettier]:https://prettier.io/
-<!-- [docker]:https://www.docker.com/
+[docker]:https://www.docker.com/
 [sequelize]:https://sequelize.org/
 [postgres]:https://www.postgresql.org/
 [insominia]:https://insomnia.rest/
 [bcryptjs]:https://github.com/dcodeIO/bcrypt.js#readme
 [jsonWebToken]:https://jwt.io/
-[yup]:https://github.com/jquense/yup -->
+[yup]:https://github.com/jquense/yup
